@@ -1,0 +1,23 @@
+1. BFS (DONE)
+2. DFS (DONE)
+3. Dijikstra (CODE)
+4. Floyd - Warshall (DONE)
+5. Prim (DONE)
+6. Kruskal (DONE)
+7. Topological sort (DONE)
+8. Johnson's Algorithm (DONE)
+9. Articulation or cut vertices
+10. Bridges in graph
+11. Min cut Max flow
+12. Bipartite matching (Related to max flow)
+13. Bellman ford (DONE)
+14. Euler Path
+        Fluery (DONE)
+        Hierholzer
+15. Lowest Common Ancestor
+16. Strongly connected components
+        Tarjan
+        Kosaraju (DONE)
+
+
+https://event.webinarjam.com/register/182/6k4y2sx2

@@ -1,0 +1,10 @@
+Graphs:
+
+Adjacency list
+Adjacency matrix
+List is better for sparse graph and is generally used.
+Bfs is better than dfs in some situations.
+Dfs of disconnected graph repeat the step on the left over vertices.
+
+In heap implementation of Prims use TreeSet instead of PriorityQueue as Treesset removal os O(log N) while PQ is O(N).
+when you want to modify an element in TS just remove the old element and add the modified element.
